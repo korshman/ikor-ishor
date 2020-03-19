@@ -1,0 +1,5 @@
+Name: NGAJI IKOR-ISHOR SAMUEL
+EMAIL: Leumas4u@gmail.com
+Slack Username: Ikor-ishor
+Tracks: FrontEnd, Backend, Design
+Courses: Html, CSS, JavaScript, Go, Flutter
